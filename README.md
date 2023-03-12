@@ -1,11 +1,11 @@
 ## validator in minimal api
 simple way to use validators in minimal api 
 
-. .Net 6
-. Minimal api
-. Validation
-. Sqlite
-. Endpoint
+1. .Net 6
+1. Minimal api
+1. Validation
+1. Sqlite
+1. Endpoint
  
 ## How to Use
 
